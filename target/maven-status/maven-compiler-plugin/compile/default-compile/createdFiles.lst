@@ -1,0 +1,6 @@
+com\mycompany\pet\care\sys\Pet.class
+com\mycompany\pet\care\sys\PetCareSys.class
+com\mycompany\pet\care\sys\Checkup.class
+com\mycompany\pet\care\sys\PetList.class
+com\mycompany\pet\care\sys\Veterinarian.class
+com\mycompany\pet\care\sys\pNode.class
